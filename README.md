@@ -6,12 +6,14 @@ One of the projects I’m most proud of is a marketplace focused on pet products
 
 I thrive in remote work environments where I can manage tasks independently while maintaining open communication with the team as needed. Flexibility and autonomy are important to me, as they allow me to organize my work in a way that maximizes productivity.
 
+<!--
 ### My Current Focus
 
 - 🔭 Currently honing my skills in **JavaScript** and **TypeScript**.
 - 🌱 Short-term goal: Master **Node.js (backend)**, **React**, and **React Native**.
 - 🚀 Long-term goal: Specialize in **Mobile Development**, building innovative, user-friendly applications.
-
+ -->
+ 
 ### Strengths
 
 I’m known for my ability to learn quickly and solve complex problems with logical precision. These strengths help me navigate new technologies with ease, while always being open to experimenting with tools and methods that can improve my work.

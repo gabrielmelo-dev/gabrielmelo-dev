@@ -72,7 +72,7 @@ Feel free to explore the code, and let me know if you have any questions or sugg
 I'm always open to networking and new opportunities.
 
 <div align="center" >
-  <a href="https://www.linkedin.com/in/gabriel-melo-3a0b55169/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-davi-de-melo-3a0b55169/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:g.melo.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
